@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T14:36:06.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="3X7S3DGCV4Pogi3DNym5" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-24T14:36:39.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="uXwcEKFyZ74Mo_k1sLQL" version="16.4.5" type="github">
   <diagram id="2xvdcaAI2u6qGRwVfC7a" name="DB S">
-    <mxGraphModel dx="1863" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="1568" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,13 +198,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5xwT4UVQatDe8eMr6S1B-87" value="Create Account : YES&lt;br&gt;Create Person: YES &lt;br&gt;Send Invite : &lt;br&gt;YES&lt;br&gt;Account : Active&lt;br&gt;Employer : Active&lt;br&gt;InviteSent : Active" style="whiteSpace=wrap;html=1;fontSize=17;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;labelBorderColor=default;fillColor=#A8DADC;strokeColor=#457B9D;rounded=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="2640" y="290" width="360" height="130" as="geometry" />
+          <mxGeometry x="2620" y="280" width="360" height="130" as="geometry" />
         </mxCell>
         <mxCell id="5xwT4UVQatDe8eMr6S1B-93" value="LEGAL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=27;fontColor=#1D3557;fontStyle=1;rounded=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="2185" y="400" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5xwT4UVQatDe8eMr6S1B-94" value="Send Invite" style="triangle;whiteSpace=wrap;html=1;labelBackgroundColor=#F1FAEE;labelBorderColor=default;fontSize=27;fontColor=#1D3557;fillColor=#A8DADC;strokeColor=#457B9D;rounded=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="2550" y="280" width="130" height="150" as="geometry" />
+          <mxGeometry x="2510" y="280" width="110" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
